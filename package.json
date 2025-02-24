@@ -1,0 +1,14 @@
+{
+  "name": "vacuu-tests",
+  "version": "1.0.0",
+  "main": "test.js",
+  "dependencies": {
+    "playwright": "^1.41.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
